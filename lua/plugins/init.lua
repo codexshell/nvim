@@ -28,6 +28,7 @@ return {
         "html-lsp",
         "css-lsp",
         "docker-compose-language-service",
+        "emmet_language_server",
         -- Linters
         "eslint_d",
         -- Formatters

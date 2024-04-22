@@ -14,7 +14,8 @@ local servers = {
   "html",
   "cssls",
   "docker_compose_language_service",
-  "eslint_d"
+  "eslint_d",
+  "emmet_language_server"
 }
 
 -- lsps with default config
