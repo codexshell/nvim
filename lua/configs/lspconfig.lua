@@ -5,14 +5,14 @@ local capabilities = require("nvchad.configs.lspconfig").capabilities
 
 local lspconfig = require "lspconfig"
 local servers = {
-  "html-lsp",
-  "css-lsp",
-  "angular-language-server",
-  "biome",
+  "html",
+  "cssls",
+  "angularls",
   "mdx_analyzer",
-  "harper-ls",
-  "markdown-oxide",
-  "bash-language-server",
+  "harper_ls",
+  "markdown_oxide",
+  "bashls",
+  "biome"
 }
 
 -- lsps with default config

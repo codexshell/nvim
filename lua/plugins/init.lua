@@ -14,16 +14,13 @@ return {
       require "configs.lspconfig"
     end,
   },
-
   {
     "williamboman/mason.nvim",
     opts = {
       ensure_installed = {
         -- LSPs
-        "html-lsp",
-        "css-lsp",
         "angular-language-server",
-        "mdx_analyzer",
+        "mdx-analyzer",
         "harper-ls",
         "markdown-oxide",
         "bash-language-server",
