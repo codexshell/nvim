@@ -59,4 +59,8 @@ return {
     "wakatime/vim-wakatime",
     lazy = false,
   },
+  {
+    "Exafunction/codeium.vim",
+    lazy = false,
+  }
 }
