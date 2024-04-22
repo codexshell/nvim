@@ -11,7 +11,10 @@ local servers = {
   "markdown_oxide",
   "bashls",
   "biome",
-  "tsserver"
+  "tsserver",
+  "html",
+  "cssls",
+  "docker_compose_language_service"
 }
 
 -- lsps with default config

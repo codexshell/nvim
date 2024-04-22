@@ -25,6 +25,9 @@ return {
         "markdown-oxide",
         "bash-language-server",
         "typescript-language-server",
+        "html-lsp",
+        "css-lsp",
+        "docker-compose-language-service",
         -- Linters
         -- Formatters
         "prettierd",
