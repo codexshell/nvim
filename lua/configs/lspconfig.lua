@@ -12,7 +12,8 @@ local servers = {
   "harper_ls",
   "markdown_oxide",
   "bashls",
-  "biome"
+  "biome",
+  "tsserver"
 }
 
 -- lsps with default config

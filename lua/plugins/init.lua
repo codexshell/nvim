@@ -24,6 +24,7 @@ return {
         "harper-ls",
         "markdown-oxide",
         "bash-language-server",
+        "typescript-language-server",
         -- Linters
         -- Formatters
         "prettierd",
