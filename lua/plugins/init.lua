@@ -17,13 +17,24 @@ return {
   -- },
   --
   {
-  	"williamboman/mason.nvim",
-  	opts = {
-  		ensure_installed = {
-  			"lua-language-server", "stylua",
-  			"html-lsp", "css-lsp" , "prettier"
-  		},
-  	},
+    "williamboman/mason.nvim",
+    opts = {
+      ensure_installed = {
+        -- LSPs
+        "html-lsp",
+        "css-lsp",
+        "angular-language-server",
+        "mdx_analyzer",
+        "harper-ls",
+        "markdown-oxide",
+        "bash-language-server",
+        -- Linters
+        -- Formatters
+        "prettierd",
+        -- LSP, Formatter, Linter
+        "biome",
+      },
+    },
   },
 
   {
@@ -40,14 +51,11 @@ return {
         "gitcommit",
         "diff",
         "gitignore",
-        "go",
-        "gomod",
-        "gosum",
-        "gowork",
         "json",
         "json5",
         "javascript",
-        "typescript"
+        "typescript",
+        "bash",
       },
     },
   },
