@@ -26,17 +26,36 @@ return {
   -- 	},
   -- },
   --
-  -- {
-  -- 	"nvim-treesitter/nvim-treesitter",
-  -- 	opts = {
-  -- 		ensure_installed = {
-  -- 			"vim", "lua", "vimdoc",
-  --      "html", "css"
-  -- 		},
-  -- 	},
-  -- },
+  {
+    "nvim-treesitter/nvim-treesitter",
+    opts = {
+      ensure_installed = {
+        "vim",
+        "lua",
+        "vimdoc",
+        "html",
+        "css",
+        "angular",
+        "dockerfile",
+        "gitconfig",
+        "gitrebase",
+        "gitcommit",
+        "diff",
+        "gitignore",
+        "go",
+        "gomod",
+        "gosum",
+        "gowork",
+        "jsondoc",
+        "json",
+        "json5",
+        "javascript",
+        "typescript"
+      },
+    },
+  },
   {
     "wakatime/vim-wakatime",
-    lazy = false
-  }
+    lazy = false,
+  },
 }
