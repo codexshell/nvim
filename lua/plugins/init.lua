@@ -29,10 +29,9 @@ return {
         "css-lsp",
         "docker-compose-language-service",
         -- Linters
+        "eslint_d",
         -- Formatters
         "prettierd",
-        -- LSP, Formatter, Linter
-        "biome",
       },
     },
   },

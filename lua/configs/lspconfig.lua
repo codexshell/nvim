@@ -10,11 +10,11 @@ local servers = {
   "harper_ls",
   "markdown_oxide",
   "bashls",
-  "biome",
   "tsserver",
   "html",
   "cssls",
-  "docker_compose_language_service"
+  "docker_compose_language_service",
+  "eslint_d"
 }
 
 -- lsps with default config
