@@ -5,8 +5,6 @@ local capabilities = require("nvchad.configs.lspconfig").capabilities
 
 local lspconfig = require "lspconfig"
 local servers = {
-  "html",
-  "cssls",
   "angularls",
   "mdx_analyzer",
   "harper_ls",
