@@ -28,13 +28,15 @@ return {
         "html-lsp",
         "css-lsp",
         "docker-compose-language-service",
-        "emmet_language_server",
+        "emmet-language-server",
+        "json-lsp",
         -- Linters
         "eslint_d",
         -- Formatters
         "prettierd",
         -- LSP, Linter and Formatter
-        "biome"
+        "biome",
+        "json-lsp"
       },
     },
   },
