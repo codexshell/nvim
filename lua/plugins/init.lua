@@ -33,6 +33,8 @@ return {
         "eslint_d",
         -- Formatters
         "prettierd",
+        -- LSP, Linter and Formatter
+        "biome"
       },
     },
   },
