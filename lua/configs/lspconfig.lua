@@ -14,7 +14,6 @@ local servers = {
   "html",
   "cssls",
   "docker_compose_language_service",
-  "eslint_d",
   "emmet_language_server",
   "biome",
   "jsonls"
