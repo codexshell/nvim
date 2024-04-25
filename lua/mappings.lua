@@ -8,3 +8,9 @@ map("n", ";", ":", { desc = "CMD enter command mode" })
 map("i", "jk", "<ESC>")
 
 -- map({ "n", "i", "v" }, "<C-s>", "<cmd> w <cr>")
+
+-- telescope start
+-- file_browser start
+map("n", "<leader>fb", ":Telescope file_browser<CR>")
+-- file_browser end
+-- telescope end

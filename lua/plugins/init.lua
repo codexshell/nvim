@@ -36,7 +36,7 @@ return {
         "prettierd",
         -- LSP, Linter and Formatter
         "biome",
-        "json-lsp"
+        "json-lsp",
       },
     },
   },
@@ -70,5 +70,9 @@ return {
   {
     "Exafunction/codeium.vim",
     lazy = false,
-  }
+  },
+  {
+    "nvim-telescope/telescope-file-browser.nvim",
+    dependencies = { "nvim-telescope/telescope.nvim", "nvim-lua/plenary.nvim" },
+  },
 }
