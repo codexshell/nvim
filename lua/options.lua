@@ -14,3 +14,7 @@ vim.g.codeium_enabled = false
 require("telescope").load_extension "file_browser"
 -- file-browser picker end
 -- telescope end
+
+-- nvim-web-devicons start
+require("nvim-web-devicons").setup {}
+-- nvim-web-devicons end

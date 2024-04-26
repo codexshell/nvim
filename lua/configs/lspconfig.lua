@@ -7,7 +7,6 @@ local lspconfig = require "lspconfig"
 local servers = {
   "angularls",
   "mdx_analyzer",
-  "harper_ls",
   "markdown_oxide",
   "bashls",
   "tsserver",

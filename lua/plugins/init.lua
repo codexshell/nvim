@@ -21,7 +21,6 @@ return {
         -- LSPs
         "angular-language-server",
         "mdx-analyzer",
-        "harper-ls",
         "markdown-oxide",
         "bash-language-server",
         "typescript-language-server",
