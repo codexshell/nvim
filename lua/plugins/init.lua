@@ -29,6 +29,7 @@ return {
         "docker-compose-language-service",
         "emmet-language-server",
         "json-lsp",
+        "yaml-language-server",
         -- Linters
         "eslint_d",
         -- Formatters

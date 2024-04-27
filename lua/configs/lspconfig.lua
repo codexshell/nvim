@@ -15,7 +15,8 @@ local servers = {
   "docker_compose_language_service",
   "emmet_language_server",
   "biome",
-  "jsonls"
+  "jsonls",
+  "yamlls"
 }
 
 -- lsps with default config
