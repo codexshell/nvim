@@ -6,6 +6,7 @@ local options = {
     typescript = { "prettierd" },
     javascript = { "prettierd" },
     markdown = { "prettierd" },
+    yaml = { "prettierd" },
   },
   format_on_save = {
     -- These options will be passed to conform.format()
