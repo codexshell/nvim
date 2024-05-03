@@ -32,13 +32,14 @@ return {
         "emmet-language-server",
         "json-lsp",
         "yaml-language-server",
+        "json-lsp",
         -- Linters
         "eslint_d",
         -- Formatters
         "prettierd",
         -- LSP, Linter and Formatter
         "biome",
-        "json-lsp",
+        "rubocop"
       },
     },
   },

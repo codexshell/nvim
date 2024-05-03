@@ -7,6 +7,7 @@ local options = {
     javascript = { "prettierd" },
     markdown = { "prettierd" },
     yaml = { "prettierd" },
+    ruby = { "rubocop" },
   },
   format_on_save = {
     -- These options will be passed to conform.format()

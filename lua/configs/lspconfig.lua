@@ -16,7 +16,8 @@ local servers = {
   "emmet_language_server",
   "biome",
   "jsonls",
-  "yamlls"
+  "yamlls",
+  "rubocop"
 }
 
 -- lsps with default config
