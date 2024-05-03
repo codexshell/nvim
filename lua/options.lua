@@ -7,6 +7,7 @@ require "nvchad.options"
 
 -- vim start
 vim.opt.scrolloff = 5
+vim.opt.relativenumber = true
 -- vim end
 
 

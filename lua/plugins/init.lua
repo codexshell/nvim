@@ -19,6 +19,8 @@ return {
     opts = {
       ensure_installed = {
         -- LSPs
+        "lua-language-server",
+        "stylua",
         "angular-language-server",
         "mdx-analyzer",
         "markdown-oxide",
