@@ -10,7 +10,6 @@ vim.opt.scrolloff = 5
 vim.opt.relativenumber = true
 -- vim end
 
-
 -- codeium start
 vim.g.codeium_enabled = false
 -- codeium end
