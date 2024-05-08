@@ -33,13 +33,14 @@ return {
         "json-lsp",
         "yaml-language-server",
         "json-lsp",
+        "rust_analyzer",
         -- Linters
         "eslint_d",
         -- Formatters
         "prettierd",
         -- LSP, Linter and Formatter
         "biome",
-        "rubocop"
+        "rubocop",
       },
     },
   },
@@ -63,6 +64,7 @@ return {
         "javascript",
         "typescript",
         "bash",
+        "rust",
       },
     },
   },

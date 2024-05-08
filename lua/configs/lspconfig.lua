@@ -17,7 +17,8 @@ local servers = {
   "biome",
   "jsonls",
   "yamlls",
-  "rubocop"
+  "rubocop",
+  "rust_analyzer",
 }
 
 -- lsps with default config
