@@ -33,7 +33,7 @@ return {
         "json-lsp",
         "yaml-language-server",
         "json-lsp",
-        "rust_analyzer",
+        "rust-analyzer",
         -- Linters
         "eslint_d",
         -- Formatters
