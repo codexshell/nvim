@@ -38,6 +38,8 @@ return {
         "eslint_d",
         -- Formatters
         "prettierd",
+        -- Linter and Formatter
+        "shellharden",
         -- LSP, Linter and Formatter
         "biome",
         "rubocop",
