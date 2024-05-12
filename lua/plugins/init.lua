@@ -34,6 +34,7 @@ return {
         "yaml-language-server",
         "json-lsp",
         "rust-analyzer",
+        "dockerfile-language-server",
         -- Linters
         "eslint_d",
         -- Formatters

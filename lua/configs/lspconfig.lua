@@ -19,6 +19,7 @@ local servers = {
   "yamlls",
   "rubocop",
   "rust_analyzer",
+  "dockerls",
 }
 
 -- lsps with default config
