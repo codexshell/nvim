@@ -48,7 +48,6 @@ return {
       },
     },
   },
-
   {
     "nvim-treesitter/nvim-treesitter",
     opts = {
@@ -69,6 +68,9 @@ return {
         "typescript",
         "bash",
         "rust",
+        "markdown",
+        "ruby",
+        "astro",
       },
     },
   },
