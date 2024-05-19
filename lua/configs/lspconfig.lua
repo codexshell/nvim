@@ -20,6 +20,7 @@ local servers = {
   "rubocop",
   "rust_analyzer",
   "dockerls",
+  "astro"
 }
 
 -- lsps with default config

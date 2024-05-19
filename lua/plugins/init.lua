@@ -35,6 +35,7 @@ return {
         "json-lsp",
         "rust-analyzer",
         "dockerfile-language-server",
+        "astro-language-server",
         -- Linters
         "eslint_d",
         -- Formatters
